@@ -129,7 +129,7 @@ document.querySelector("#app").innerHTML = `
         <div>Election Commission Secretariat</div>
         <div>Nirbachon Bhabon.</div>
         <div>Agargaon, Dhaka</div>
-        <div><a href="https://www.ecs.gov.bd" target="_blank">www.ecs.gov.bd</a></div>
+        <div>www.ecs.gov.bd</div>
       </div>
 
       <div class="underline-title">Authorization Form for the Contact Person</div>
